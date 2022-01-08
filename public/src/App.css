@@ -1,0 +1,13 @@
+body{
+    font-family: 'PT Serif', serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    padding: 20px 80px;
+}
+a{
+    text-decoration : none;
+    color: black;
+}
+*{
+    box-sizing : border-box;
+}
